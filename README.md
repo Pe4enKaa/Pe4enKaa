@@ -8,7 +8,7 @@
 At the moment I work as a junior android developer in TELROS SOFT
 
 ### 🛠 Technologies:
-![My Skills](https://skillicons.dev/icons?i=kotlin,idea,androidstudio,gradle,git,github,firebase&theme=light)
+![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,idea,git,github,firebase&theme=light)
  ##
  ### 🔍 You can contact me:
   <a href = "https://t.me/bagirovmamed"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
