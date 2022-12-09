@@ -9,10 +9,11 @@ At the moment I work as a junior android developer in TELROS SOFT
 ### 🛠 Technologies:
 ![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,idea,git,github,gitlab&theme=light)
 
- <img src="https://komarev.com/ghpvc/?username=Pe4enKaa&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Pe4enKaa" />
- 
  ##
  ### 🔍 You can contact me:
   <a href = "https://t.me/bagirovmamed"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href = "mailto:boss.boss159@mail.ru"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=mail&logoColor=red" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/mamed-bagirov-252114253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ ##
+ ###
+  <img src="https://komarev.com/ghpvc/?username=Pe4enKaa&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Pe4enKaa" />
