@@ -7,7 +7,7 @@
 At the moment I work as a android developer in TELROS SOFT
 
 ### 🛠 Technologies:
-![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,idea,git,github,gitlab&theme=light, datagrip, postman, mvvm)
+![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,idea,git,github,gitlab&theme=light,datagrip)
 
  ##
  ### 🔍 You can contact me:
