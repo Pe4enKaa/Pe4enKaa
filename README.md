@@ -2,9 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/48939805/190914687-7636f0eb-3105-41c8-b133-1fe6488c50b5.png" height="300px" align="right" > 
 
-### 👨‍💻 I'm a Junior <img align="center" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/> Developer  
+### 👨‍💻 I'm a <img align="center" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/> Developer  
 
-At the moment I work as a junior android developer in TELROS SOFT
+At the moment I work as a android developer in TELROS SOFT
 
 ### 🛠 Technologies:
 ![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,idea,git,github,gitlab&theme=light)
