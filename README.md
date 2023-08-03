@@ -9,8 +9,7 @@ At the moment I work as a android developer in TELROS SOFT
 ### 🛠 Technologies:
 ![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,idea,git,github,gitlab&theme=light)
 
-### 
-<p align = 'left'>
+<p >
 <a href="https://github.com/Pe4enKaa/github-readme-stats"><img height=150 width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pe4enKaa&layout=compact" /></a>
  </p>
 
